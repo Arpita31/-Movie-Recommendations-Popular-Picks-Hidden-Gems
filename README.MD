@@ -1,4 +1,4 @@
-# Movie Recommender System
+# Movie Recommendations: Popular Picks & Hidden Gems
 
 ## Overview
 The Movie Recommender System is an interactive application that suggests movies based on your emotional state. Using advanced emotion detection, the system analyzes your text input, identifies your mood, and provides tailored movie recommendations in two categories: popular films and hidden gems.
