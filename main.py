@@ -8,7 +8,7 @@ Created on Mon Apr 21 23:07:28 2025
 import sys
 import os
 # Import from existing files
-from advanced_emotion_detection1 import AdvancedEmotionDetector
+from emotion_detector import AdvancedEmotionDetector
 from sentimental_sae import recommend_movies_two_categories
 
 def display_recommendations(popular_recs, hidden_gems):

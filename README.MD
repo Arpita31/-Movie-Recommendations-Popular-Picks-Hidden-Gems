@@ -1,5 +1,8 @@
 # M3: Mood Movie Matcher - Popular Picks & Hidden Gems
 
+<video src="media/M3 demo.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
 ## Overview
 The Movie Recommender System is an interactive application that suggests movies based on your emotional state. Using advanced emotion detection, the system analyzes your text input, identifies your mood, and provides tailored movie recommendations in two categories: *popular films and hidden gems.
 
