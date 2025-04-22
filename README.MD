@@ -23,7 +23,7 @@ The Movie Recommender System is an interactive application that suggests movies 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Arpita31/-Movie-Recommendations-Popular-Picks-Hidden-Gems.git
+   git clone https://https://github.com/Arpita31/Mood-Movie-Matcher/
    ```
 
 2. Install dependencies:
