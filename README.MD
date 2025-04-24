@@ -1,6 +1,6 @@
 # M3: Mood Movie Matcher - Popular Picks & Hidden Gems
 
-<video src="media/M3-video.mov" controls="controls" style="max-width: 730px;">
+<video src="/media/M3_video.mov" controls="controls" style="max-width: 730px;">
 </video>
 
 ## Overview
