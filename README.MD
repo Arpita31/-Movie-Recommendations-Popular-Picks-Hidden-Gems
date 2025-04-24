@@ -2,7 +2,7 @@
 
 <video src="/media/M3_video.mov" controls="controls" style="max-width: 730px;">
 </video>
-
+https://github.com/Arpita31/Mood-Movie-Matcher/blob/main/media/M3_video.mov
 ## Overview
 The Movie Recommender System is an interactive application that suggests movies based on your emotional state. Using advanced emotion detection, the system analyzes your text input, identifies your mood, and provides tailored movie recommendations in two categories: *popular films and hidden gems.
 
